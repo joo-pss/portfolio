@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "name": "Authentication System Based on JWT",
+      "repository": "https://github.com/joo-pss/jwt-auth-node",
+      "description": "This is an API that implements a JWT authentication system. It provides routes for account creation and authentication, as well as private routes for updating, deleting, and retrieving user account information.",
+      "gifPath": "https://media.giphy.com/media/APEJh4KXMoW4dvyEoF/giphy.gif",
+      "createdAt": "Feb 2024"
+    }
+  ]
+}
